@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+.verde{
+    background-color: green;
+    height: 10vh;
+    border: 2px solid white;
+}
+.verde1{
+    background-color: green;
+    height: 5vh;
+    border: 2px solid white;
+}
+.azul{
+    background-color: rgb(88, 88, 255);
+    height: 20vh;
+    border: 2px solid white;    
+}
+.gris{
+    background-color: grey;
+    height: 20vh;
+    border: 2px solid white;
+}
+.azulClaro{
+    background-color: rgb(128, 218, 248);
+    height: 10vh;
+    border: 2px solid white;
+}
+.naranja{
+    background-color: orange;
+    height: 20vh;
+    border: 2px solid white;
+}

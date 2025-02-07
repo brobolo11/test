@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+.verde{
+    background-color: green;
+    height: 10vh;
+    border: 2px solid white;
+}
+.verde1{
+    background-color: green;
+    height: 5vh;
+    border: 2px solid white;
+}
+.rojo{
+    background-color: red;
+    height: 80vh;
+    border: 2px solid white;
+}
+.rosa{
+    background-color: pink;
+    height: 10vh;
+    border: 2px solid white;
+}
+.naranja{
+    background-color: orange;
+    height: 40vh;
+    border: 2px solid white;
+}
+.azul{
+    background-color: blue;
+    height: 15vh;
+    border: 2px solid white;
+}
